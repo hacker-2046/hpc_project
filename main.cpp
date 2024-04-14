@@ -1,4 +1,4 @@
-//g++ trial2.cpp -I xtensor/include -I xtl/include -I xtensor-blas/include
+//g++ mainCode.cpp -I xtensor/include -I xtl/include -I xtensor-blas/include
 #include "linear.h"
 #include <xtensor/xarray.hpp>
 #include <xtensor/xrandom.hpp>
